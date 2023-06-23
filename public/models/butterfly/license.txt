@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blue Monarch Butterfly
+* source:	https://sketchfab.com/3d-models/blue-monarch-butterfly-1684014e89534311b149b165828c23dc
+* author:	Kianga (https://sketchfab.com/kianga)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blue Monarch Butterfly" (https://sketchfab.com/3d-models/blue-monarch-butterfly-1684014e89534311b149b165828c23dc) by Kianga (https://sketchfab.com/kianga) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
